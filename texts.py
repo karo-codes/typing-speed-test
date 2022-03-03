@@ -1,0 +1,20 @@
+text = ["So she swallowed one of the cakes and was "
+        "delighted to find that she began shrinking directly "
+        "As soon as she was small enough to get through the door"
+        " she ran out of the house and found quite a crowd of little "
+        "animals and birds waiting outside The poor little Lizard Bill "
+        "was in the middle being held up by two guinea-pigs who were "
+        "giving it something out of a bottle They all made a rush at "
+        "Alice the moment she appeared but she ran off as hard as she could "
+        "and soon found herself safe in a thick wood",
+        "Out of this chaos came war Open bitter war "
+        "pitting blood against blood and kin against kin "
+        "The conflict broke a vast and prosperous empire into brittle fragments "
+        "No single side could find enough purchase to maintain a decisive victory "
+        "even when fueled by the power of a Great Rune"
+        "The battle of General Radahn against Malenia "
+        "the Severed illustrated that neither strength "
+        "nor skill alone would be enough to take control of"
+        " the entirety of the lands Marika had united"
+        ]
+
